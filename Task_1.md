@@ -1,4 +1,14 @@
-And in the Leaf pad,I wrote my code.
+# Writing a C code to count the sum of numbers from 1 to n and running this program using RISC-V simulator
+
+## Writing a C code to count sum of numbers from 1 to n.
+
+![image](https://github.com/SuriyaNatarajan02/VSD_Mini_Research-Internship/assets/110706394/fb201b7f-70e1-4ed1-97f0-21fcdcb37056)
+
+I . By opening the terminal, I coded to create and open a new C file in Leaf pad.
+
+![image](https://github.com/SuriyaNatarajan02/VSD_Mini_Research-Internship/assets/110706394/04fe978d-7529-4ac7-ad4e-40751b2a00c7)
+
+II. And in the Leaf pad,I wrote my code.
 
 ![image](https://github.com/SuriyaNatarajan02/VSD_Mini_Research-Internship/assets/110706394/112c0988-4d15-4f00-b0cc-889d9eed950a)
 
