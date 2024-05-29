@@ -14,7 +14,7 @@
 #### LW r13, r1, 2
 #### SLL r15, r1, r2
 
-## RISC-V Instruction Types
+## # RISC-V Instruction Types
 #### •	R-type: Used for register-register operations.
 #### •	I-type: Used for immediate operations.
 #### •	S-type: Used for store instructions.
@@ -22,7 +22,7 @@
 #### •	U-type: Used for upper immediate operations.
 #### •	J-type: Used for jump instructions.
 
-### Instruction Breakdown
+### # Instruction Breakdown
 Each RISC-V instruction is represented in a specific format depending on its type. Let's detail the structure for each instruction type:
 
 ### R-Type
