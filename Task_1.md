@@ -1,21 +1,12 @@
-# Writing a C code to count the sum of numbers from 1 to n and running this program using RISC-V simulator
-## Writing a C code to count sum of numbers from 1 to n.
-
-![image](https://github.com/SuriyaNatarajan02/VSD_Mini_Research-Internship/assets/110706394/a248fc9e-6d0d-43cd-b4f6-710a7d961386)
-
-I . First, I opened the terminal and wrote code to create and open a new C file in Leaf pad, as demonstrated below:
-
-![image](https://github.com/SuriyaNatarajan02/VSD_Mini_Research-Internship/assets/110706394/ee490d05-c8a0-4a2a-8364-fc5b1dcb7189)
-
-II . Next, I wrote my code in Leaf pad as illustrated below :
+And in the Leaf pad,I wrote my code.
 
 ![image](https://github.com/SuriyaNatarajan02/VSD_Mini_Research-Internship/assets/110706394/112c0988-4d15-4f00-b0cc-889d9eed950a)
 
-III. Then I compiled and ran it in the terminal to verify, and achieved the desired output.
+III. Then I compiled and ran it in the terminal.
 
 ![image](https://github.com/SuriyaNatarajan02/VSD_Mini_Research-Internship/assets/110706394/ce5f6a61-33c8-401a-b8bf-4a5c64735492)
 
-IV. Then  I tested different values of n, such as n=100, and obtained the results.
+IV. Finally, I tested different values of n, such as n=100, and obtained the results.
 
 ![image](https://github.com/SuriyaNatarajan02/VSD_Mini_Research-Internship/assets/110706394/7b3e05e2-f581-4de0-8698-54eb5b0208b2)
 ![image](https://github.com/SuriyaNatarajan02/VSD_Mini_Research-Internship/assets/110706394/73b69829-a7da-41f4-8c9e-1b8f62e42550)
