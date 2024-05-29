@@ -1,18 +1,18 @@
 # IDENTIFY VARIOUS RISC-V INSTRUCTION TYPE (R, I, S, B, U, J) AND EXACT 32-BIT INSTRUCTION CODE IN THE INSTRUCTION TYPE FORMAT FOR BELOW RISC-V INSTRUCTIONS 
 
-ADD r6, r2, r1
-SUB r7, r1, r2
-AND r8, r1, r3
-OR r9, r2, r5
-XOR r10, r1, r4
-SLT r11, r2, r4
-ADDI r12, r4, 5
-SW r3, r1, 2
-SRL r16, r14, r2
-BNE r0, r1, 20
-BEQ r0, r0, 15
-LW r13, r1, 2
-SLL r15, r1, r2
+#### ADD r6, r2, r1
+#### SUB r7, r1, r2
+#### AND r8, r1, r3
+#### OR r9, r2, r5
+#### XOR r10, r1, r4
+#### SLT r11, r2, r4
+#### ADDI r12, r4, 5
+#### SW r3, r1, 2
+#### SRL r16, r14, r2
+#### BNE r0, r1, 20
+#### BEQ r0, r0, 15
+#### LW r13, r1, 2
+#### SLL r15, r1, r2
 
 ## RISC-V Instruction Types
 •	R-type: Used for register-register operations.
