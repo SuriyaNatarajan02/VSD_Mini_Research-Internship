@@ -41,4 +41,4 @@ After running the code in the terminal, I need to execute it in the RISC-V simul
 
 ![image](https://github.com/SuriyaNatarajan02/VSD_Mini_Research-Internship/assets/110706394/4034cecf-37d5-4514-b814-c724bf6b513d)
 
-And that’s all !!!
+## And that’s all !!!
