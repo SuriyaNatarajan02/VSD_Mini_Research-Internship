@@ -2,7 +2,7 @@
 ## Writing a C code to count sum of numbers from 1 to n.
 
 I . First, I opened the terminal and wrote code to create and open a new C file in Leaf pad, as demonstrated below:
-
+![image](https://github.com/SuriyaNatarajan02/VSD_Mini_Research-Internship/assets/110706394/a248fc9e-6d0d-43cd-b4f6-710a7d961386)
 II . Next, I wrote my code in Leaf pad as illustrated below :
 
 III. Then I compiled and ran it in the terminal to verify, and achieved the desired output.
