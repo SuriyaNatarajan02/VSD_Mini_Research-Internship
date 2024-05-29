@@ -48,6 +48,7 @@ Each RISC-V instruction is represented in a specific format depending on its typ
 
 #### Detailed Instruction Analysis and 32-bit Patterns
 ## R-Type Instructions
+
 1.	ADD r6, r2, r1
 ##### •	Opcode: 0110011
 ##### •	funct3: 000
@@ -105,6 +106,7 @@ Each RISC-V instruction is represented in a specific format depending on its typ
 ##### •	Hex: 0x00271333
 
 ## I-Type Instructions
+
 9.	ADDI r12, r4, 5
 ##### •	Opcode: 0010011
 ##### •	funct3: 000
@@ -120,6 +122,7 @@ Each RISC-V instruction is represented in a specific format depending on its typ
 ##### •	Hex: 0x00210103
 
 ## S-Type Instructions
+
 11.	SW r3, r1, 2
 ##### •	Opcode: 0100011
 ##### •	funct3: 010
@@ -128,6 +131,7 @@ Each RISC-V instruction is represented in a specific format depending on its typ
 ##### •	Hex: 0x0021A223
 
 ## B-Type Instructions
+
 12.	BNE r0, r1, 20
 ##### •	Opcode: 1100011
 ##### •	funct3: 001
