@@ -10,7 +10,7 @@
 
     $ sudo apt install iverilog 
 
-![Screenshot from 2024-06-02 23-58-33](https://github.com/SuriyaNatarajan02/VSD_Mini_Research-Internship/assets/110706394/cc762584-fe79-4d36-9eab-9e3f7a689490)
+![Screenshot from 2024-06-02 23-58-19](https://github.com/SuriyaNatarajan02/VSD_Mini_Research-Internship/assets/110706394/ff7a518d-afc5-4df8-a7d5-2d2d91f1b235)
 
 INSTALL GTKWAVE:
 using following command:-
@@ -43,7 +43,7 @@ And for output waveform give following command:-
 
     $ gtkwave Suriya_rv32i.vcd
 
-![Screenshot from 2024-06-02 23-58-19](https://github.com/SuriyaNatarajan02/VSD_Mini_Research-Internship/assets/110706394/ff7a518d-afc5-4df8-a7d5-2d2d91f1b235)
+![Screenshot from 2024-06-02 23-58-33](https://github.com/SuriyaNatarajan02/VSD_Mini_Research-Internship/assets/110706394/cc762584-fe79-4d36-9eab-9e3f7a689490)
 
 3.Analyze the wave form of each instruction using gtkwave.
 
