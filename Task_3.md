@@ -6,20 +6,18 @@
    *  GTKWAVE:- GTKWave is an open-source waveform viewer used for visualizing simulation results from digital circuit designs. It is commonly used in conjunction with simulation tools like Icarus Verilog.It is a fully featured GTK+ based waveform viewer for Unix and Win32, capable of displaying signal waveforms dumped in a variety of formats.
 
      
-1. 
-INSTALL IVERILOG:
-using follwing command:-
+1. INSTALL IVERILOG: using follwing command:-
 
     $ sudo apt install iverilog 
 
-=============================================
+![Screenshot from 2024-06-02 23-58-33](https://github.com/SuriyaNatarajan02/VSD_Mini_Research-Internship/assets/110706394/cc762584-fe79-4d36-9eab-9e3f7a689490)
 
 INSTALL GTKWAVE:
 using following command:-
 
     $ sudo apt install iverilog gtkwave
 
-=========================================
+![Screenshot from 2024-06-02 23-58-05](https://github.com/SuriyaNatarajan02/VSD_Mini_Research-Internship/assets/110706394/5e8ba270-809f-4ae3-a532-1ad4b5375631)
 
 2. created the verilog file and testbench file in github repository.
 
@@ -28,24 +26,24 @@ cloned it to machine using following command:-
     $ git clone [https://github.com/SuriyaNatarajan02/VSD-Mini-Research-Internship]
     $ cd VSD_Mini_Research_Internship
 
-===========================================
+![Screenshot from 2024-06-02 23-57-57](https://github.com/SuriyaNatarajan02/VSD_Mini_Research-Internship/assets/110706394/9a36496a-56f4-4691-9e83-cf4ec512f72d)
 
-===========================================
+![Screenshot from 2024-06-02 23-58-28](https://github.com/SuriyaNatarajan02/VSD_Mini_Research-Internship/assets/110706394/6ae9eff0-5ab2-4d08-a8da-a63607551345)
 
 simulate and run the code ,using following command:-
 
     $ iverilog -o VSD_Mini_Research_Internship Suriya_rv32i.v Suriya_rv32i_tb.v
     $ ./vsdsquadron-mini-internship
 
-=================================
+![Screenshot from 2024-06-02 23-58-28](https://github.com/SuriyaNatarajan02/VSD_Mini_Research-Internship/assets/110706394/6ae9eff0-5ab2-4d08-a8da-a63607551345)
 
-=================================
+![Screenshot from 2024-06-02 23-58-11](https://github.com/SuriyaNatarajan02/VSD_Mini_Research-Internship/assets/110706394/fa869c13-e4b6-41f3-b358-344bf14f9776)
 
 And for output waveform give following command:-
 
     $ gtkwave Suriya_rv32i.vcd
 
-===================================
+![Screenshot from 2024-06-02 23-58-19](https://github.com/SuriyaNatarajan02/VSD_Mini_Research-Internship/assets/110706394/ff7a518d-afc5-4df8-a7d5-2d2d91f1b235)
 
 3.Analyze the wave form of each instruction using gtkwave.
 
